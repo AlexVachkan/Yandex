@@ -29,13 +29,13 @@ Matplotlib\
 Seaborn\
 Plotly
 
-# Проекты:\
+# Проекты:
 1) **gym_churn_analisys:** \
 Необходимо провести анализ и подготовить план действий по удержанию клиентов в фитнес центре.\
 
 Использовал библиотеки: pandas, numpy, matplotlib, seaborn, plotly, requests, os, sklearn, itertools.\
 Методы: EDA, train_test_split, LogisticRegression, RandomForestClassifier, linkage.\
-Содержание:\
+Содержание:
 
 1  Описание проекта\
 2  Описание данных\
