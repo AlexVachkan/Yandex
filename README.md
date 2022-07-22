@@ -55,7 +55,7 @@ Plotly
 
 Использовал библиотеки: pandas, numpy, matplotlib, stats, datetime.\
 Методы: EDA, ICE, RICE, cumulativeRevenue, visitorsAggregated.\
-Содержание:\
+Содержание:
 
 1  Введение\
 2  Загружаем данные и подготовливаем их к анализу\
